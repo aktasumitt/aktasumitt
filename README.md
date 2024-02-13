@@ -1,4 +1,4 @@
-[![MasterHead](https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif)]
+![MasterHead](https://s3.us-west-2.amazonaws.com/aa.techdemand.io/wp-content/uploads/2023/08/04174332/Custom-ChatGPT-Models.jpg)
 <h1 align="center">Hi 👋, I'm Ümit Aktaş</h1>
 <h3 align="center">Working on Aritificial Intelligence from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://jnnce.ac.in/jnndemo/aiml.gif">
