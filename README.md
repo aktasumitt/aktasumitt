@@ -1,7 +1,7 @@
 ![MasterHead](https://s3.us-west-2.amazonaws.com/aa.techdemand.io/wp-content/uploads/2023/08/04174332/Custom-ChatGPT-Models.jpg)
 <h1 align="center">Hi 👋, I'm Ümit Aktaş</h1>
 <h3 align="center">Working on Aritificial Intelligence from Turkey</h3>
-<img align="right" alt="Coding" width="300" height="300" src="https://jnnce.ac.in/jnndemo/aiml.gif">
+<img align="right" alt="Coding" width="350" height="250" src="https://jnnce.ac.in/jnndemo/aiml.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aktasumitt&label=Profile%20views&color=0e75b6&style=flat" alt="aktasumitt" /> </p>
 
