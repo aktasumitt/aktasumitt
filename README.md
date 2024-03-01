@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aktasumitt&label=Profile%20views&color=0e75b6&style=flat" alt="aktasumitt" /> </p>
 
-- 🌱 I’m currently learning **Generator Models and LLMs**
+- 🌱 I’m currently learning **Generative Models and LLMs**
 
 - 📫 How to reach me **umtaktas@outlook.com**
 
